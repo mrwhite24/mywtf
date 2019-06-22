@@ -6,3 +6,4 @@ class base(object):
         pass
  
 b=base()
+print("add by yc")
